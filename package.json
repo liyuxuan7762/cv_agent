@@ -1,0 +1,15 @@
+{
+  "name": "cv_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_resume_data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.22.0"
+  }
+}
