@@ -1,0 +1,1 @@
+{"name":"cv_agent_dictionary","version":"1.0.0","description":"Skill dictionary seed script for cv_agent","main":"seed_dictionaries.js","scripts":{"seed":"node seed_dictionaries.js"},"keywords":[],"author":"","license":"ISC","dependencies":{"pg":"^8.22.0"}}
