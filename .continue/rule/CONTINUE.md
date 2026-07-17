@@ -1,4 +1,4 @@
-# CONTINUE.md - HR 简历检索助手项目全局上下文
+﻿# CONTINUE.md - HR 简历检索助手项目全局上下文
 
 ## 1. 项目定位
 
@@ -70,6 +70,7 @@ aim_salary
 personal
 applied_at
 experience_if
+education
 created_at
 ```
 
@@ -93,6 +94,34 @@ experience_if
 
 注意：`experience_if` 字段名目前就是这个名字，不要擅自改成 `experience_info`，除非同步修改所有脚本和 SQL。
 
+```text
+education
+```
+
+是一个 JSON 数组字符串，每个元素类似：
+
+```json
+{
+  "startDate": "2003-09-01",
+  "endDate": "2007-06-30",
+  "school": "南京大学",
+  "major": "数学与应用数学",
+  "degree": "本科",
+  "description": "完成南京大学数学与应用数学阶段学习，主修方向涵盖软件开发、系统设计和工程实践，毕业论文方向为分布式系统或数据处理相关领域。"
+}
+```
+
+每个元素包含以下子字段：
+
+- `startDate`：入学时间
+- `endDate`：毕业时间
+- `school`：学校名称
+- `major`：专业名称
+- `degree`：学历层次（本科、硕士、博士等）
+- `description`：学习经历描述
+
+注意：`education` 字段同样是 JSON 数组字符串，部分候选人可能有多段学历（本科 + 硕士）。
+
 ### 2.2 build_search_index.js
 
 用途：
@@ -100,6 +129,7 @@ experience_if
 - 创建候选人检索索引表 `candidate_search_index`。
 - 从 `candidate_resumes` 读取原始简历。
 - 解析 `experience_if`。
+- 解析 `education`（可选，用于扩展 `full_text`，暂不做结构化索引字段）。
 - 构造 `full_text`。
 - 根据 `skill_dictionary` 生成 `matched_skills`。
 - 根据 `company_dictionary` 生成：
@@ -130,6 +160,8 @@ CREATE TABLE IF NOT EXISTS candidate_search_index (
   updated_at TIMESTAMP NOT NULL DEFAULT NOW()
 );
 ```
+
+注意：`candidate_search_index` 当前不单独存储学历结构化字段（如 `degree`、`school`），学历文本已通过 `education` 解析后合并进 `full_text`，用于全文匹配和后续向量检索。如需结构化学历筛选（如按学历层次过滤），可在后续阶段扩展索引字段。
 
 ## 一句话总结
 

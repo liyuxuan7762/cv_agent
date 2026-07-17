@@ -12,6 +12,7 @@
 - `personal`
 - `applied_at`
 - `experience_if`
+- `education`
 
 其中 `experience_if` 是一个 JSON 数组字符串，每个工作经历对象包含：
 
@@ -20,6 +21,15 @@
 - `startDate`
 - `endDate`
 - `summary`
+
+其中 `education` 是一个 JSON 数组字符串，每个学历对象包含：
+
+- `startDate`
+- `endDate`
+- `school`
+- `major`
+- `degree`
+- `description`
 
 当前采用 text-to-SQL 的方式直接把自然语言问题转换为 SQL，但存在明显问题：
 
@@ -106,7 +116,8 @@ CREATE TABLE IF NOT EXISTS candidate_resumes (
   personal TEXT,
   applied_at TIMESTAMP NOT NULL,
   experience_if TEXT NOT NULL,
-  created_at TIMESTAMP NOT NULL DEFAULT NOW()
+      education TEXT NOT NULL,
+      created_at TIMESTAMP NOT NULL DEFAULT NOW()
 );
 ```
 

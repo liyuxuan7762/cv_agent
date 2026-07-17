@@ -224,7 +224,8 @@ SELECT
   aim_salary,
   personal,
   applied_at,
-  experience_if
+  experience_if,
+  education
 FROM candidate_resumes
 WHERE user_id = $1
 LIMIT 1;
@@ -300,6 +301,15 @@ Build Candidate Detail LLM Input
   "aim_salary": "30000元/月",
   "applied_at": "2026-07-10T10:00:00.000Z",
   "personal": "候选人个人简介文本",
+  "education": [
+    {
+      "school": "南京大学",
+      "degree": "本科",
+      "major": "数学与应用数学",
+      "start_date": "2003-09",
+      "end_date": "2007-06"
+    }
+  ],
   "experience": [
     {
       "company": "阿里巴巴",
@@ -314,9 +324,10 @@ Build Candidate Detail LLM Input
 
 说明：
 
-- 详情查询允许传递 `personal` 和 `experience_if` 解析后的单人经历。
+- 详情查询允许传递 `personal`、`education` 解析后的学历信息和 `experience_if` 解析后的单人经历。
 - 但必须只针对一个 `user_id`。
 - 如果 `experience_if` 字段过长，可以先限制或截断每段 `description` 的长度，避免上下文过大。
+- `education` 的 `description` 字段同样建议截断或省略，只保留 `school`、`degree`、`major`、`start_date`、`end_date` 等结构化字段传给 LLM。
 
 ---
 
@@ -332,7 +343,7 @@ Build Candidate Detail LLM Input
 2. 不要编造未提供的信息。
 3. 不要补充未提供的学历、工作年限、离职原因或项目成果。
 4. 一次只总结当前一个候选人。
-5. 可以总结个人简介、最近经历、主要公司、职位和技能线索。
+5. 可以总结个人简介、学历背景、最近经历、主要公司、职位和技能线索。
 6. 如果工作经历为空或字段缺失，请明确说明信息缺失。
 7. 不要输出原始 JSON。
 8. 不要逐字完整复述长段简历原文，应做摘要。
@@ -362,11 +373,14 @@ Build Candidate Detail LLM Input
 2. 个人简介摘要
    - 候选人具备 Java 后端和 Spring Boot 相关经验。
 
-3. 工作经历摘要
+3. 学历背景
+   - 南京大学 / 数学与应用数学 / 本科（2003-09 至 2007-06）
+
+4. 工作经历摘要
    - 阿里巴巴 / 高级Java开发工程师：主要参与后端系统开发和微服务相关工作。
    - 某科技公司 / Java开发工程师：参与业务系统开发。
 
-4. HR 关注点
+5. HR 关注点
    - 可重点关注其最近公司、职位稳定性、技能匹配度和期望薪资是否符合岗位预算。
 ```
 
@@ -489,6 +503,9 @@ Build Candidate Detail LLM Input
 - 列表检索分支不查询 `experience_if`。
 - 列表检索分支不返回完整简历。
 - 详情分支能调用 LLM 总结单个候选人详情。
+- 详情查询 SQL 包含 `education` 字段。
+- LLM 输入结构中包含解析后的 `education` 学历信息。
+- LLM 回答中能体现候选人学历背景（学校、学历、专业）。
 - LLM 不编造未提供的信息。
 - LLM 不逐字复述完整简历原文。
 - 候选人不存在时返回明确提示。
@@ -554,9 +571,12 @@ Build Candidate Detail LLM Input
 8. 是否只查询一个候选人：
 9. 列表分支是否包含 experience_if：
 10. 详情分支 LLM 总结结果：
-11. 是否发现编造信息：
-12. 是否逐字输出完整简历：
-13. 遗留问题：
+11. education 字段是否包含在详情查询 SQL 中：
+12. LLM 输入是否包含学历信息：
+13. LLM 回答中是否体现学历背景：
+14. 是否发现编造信息：
+15. 是否逐字输出完整简历：
+16. 遗留问题：
 ```
 
 ---

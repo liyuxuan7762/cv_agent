@@ -1,5 +1,8 @@
 # Epic 01：基础数据与端到端链路准备
 
+## 状态
+已完成
+
 ## Issue 02：打通 n8n Webhook 到 PostgreSQL 的最小查询链路
 
 ### 背景

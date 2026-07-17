@@ -1,5 +1,8 @@
 # Epic 01：基础数据与端到端链路准备
 
+## 状态
+已完成
+
 ## Issue 01：确认原始简历基础数据可用
 
 ### 背景
@@ -156,14 +159,57 @@ LIMIT 10;
 
 ---
 
+#### 6. 检查 `education` 字段是否为 JSON 数组字符串
+
+执行 SQL：
+
+```sql
+SELECT
+  user_id,
+  jsonb_typeof(education::jsonb) AS education_type
+FROM candidate_resumes
+LIMIT 10;
+```
+
+预期结果：
+
+- `education_type` 应为 `array`。
+
+---
+
+#### 7. 抽样检查学历内容
+
+执行 SQL：
+
+```sql
+SELECT
+  user_id,
+  name,
+  education::jsonb -> 0 ->> 'school' AS first_school,
+  education::jsonb -> 0 ->> 'degree' AS first_degree,
+  education::jsonb -> 0 ->> 'major' AS first_major
+FROM candidate_resumes
+LIMIT 10;
+```
+
+检查内容：
+
+- `first_school` 能看到学校名称。
+- `first_degree` 能看到学历层次（本科、硕士等）。
+- `first_major` 能看到专业名称。
+
+---
+
 ### 验收标准
 
 该 Issue 完成时，应满足以下条件：
 
 - `candidate_resumes` 表中有 `500` 条数据。
 - `experience_if` 是合法 JSON 数组字符串。
+- `education` 是合法 JSON 数组字符串。
 - 抽样数据中能看到候选人基础信息。
 - 抽样数据中能看到公司、职位、工作经历介绍等内容。
+- 抽样数据中能看到学校、学历层次、专业名称等学历信息。
 - 本阶段没有接入 n8n。
 - 本阶段没有调用 LLM。
 - 本阶段没有返回或处理完整简历给 AI。
@@ -181,8 +227,9 @@ LIMIT 10;
 1. node generate_resume_data.js 执行结果：
 2. SELECT COUNT(*) 结果：
 3. experience_if JSON 校验结果：
-4. 抽样检查结论：
-5. 遗留问题：
+4. education JSON 校验结果：
+5. 抽样检查结论：
+6. 遗留问题：
 ```
 
 ---

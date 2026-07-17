@@ -1,5 +1,8 @@
 # Epic 02：最小技能字典与技能归一化基础
 
+## 状态
+已完成
+
 ## Issue 02：构建第一版候选人搜索索引并验证技能召回
 
 ### 背景
@@ -41,7 +44,7 @@
 - 如脚本尚未完整支持，则补充最小索引构建能力。
 - 创建或重建 `candidate_search_index` 表。
 - 从 `candidate_resumes` 中读取候选人数据。
-- 从 `personal` 和 `experience_if` 等文本中组合 `full_text`。
+- 从 `personal`、`experience_if` 和 `education` 等文本中组合 `full_text`。
 - 使用 `skill_dictionary.skill_name`、`aliases` 和必要规则匹配技能。
 - 写入 `matched_skills`。
 - 提取最近一段工作经历中的公司和职位，写入 `latest_company`、`latest_title`。

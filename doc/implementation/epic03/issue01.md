@@ -1,5 +1,8 @@
 # Epic 03：n8n 固定技能检索链路
 
+## 状态
+已完成
+
 ## Issue 01：将固定 Spring Boot 技能索引查询接入 n8n Webhook
 
 ### 背景

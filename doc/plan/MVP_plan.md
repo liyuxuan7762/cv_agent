@@ -50,7 +50,9 @@ LIMIT 5;
 
 - `candidate_resumes` 中有 500 条数据。
 - `experience_if` 是合法 JSON 数组字符串。
+- `education` 是合法 JSON 数组字符串。
 - 能看到公司、职位、工作经历介绍等内容。
+- 能看到学校、学历层次、专业名称等学历信息。
 
 此阶段暂不接入 n8n。
 
@@ -804,7 +806,8 @@ SELECT
   aim_salary,
   personal,
   applied_at,
-  experience_if
+  experience_if,
+  education
 FROM candidate_resumes
 WHERE user_id = $1
 LIMIT 1;
