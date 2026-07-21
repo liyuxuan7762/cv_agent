@@ -1,5 +1,8 @@
 # Epic 06：技能条件与公司标签组合检索
 
+## 状态
+已完成
+
 ## Issue 01：支持 Spring Boot 技能与国内大厂公司标签组合查询
 
 ### 背景
@@ -52,7 +55,7 @@
 - 支持识别 `Java`、`java后端`、`Java后端`。
 - 支持识别 `国内大厂`、`互联网大厂`。
 - 输出 `must_skills` 和 `must_company_tags`。
-- 使用参数化 SQL 同时过滤 `matched_skills` 和 `company_tags`。
+- 使用 SQL 同时过滤 `matched_skills` 和 `company_tags`。
 - 返回 `matched_skills`、`matched_companies`、`company_tags` 和 `score`。
 - 对缺少必要查询条件的情况返回可解释提示。
 

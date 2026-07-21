@@ -1,0 +1,84 @@
+{
+  "total": 500,
+  "fields": [
+    {
+      "field": "matched_companies",
+      "has_value": 488,
+      "coverage": "97.60%"
+    },
+    {
+      "field": "company_tags",
+      "has_value": 488,
+      "coverage": "97.60%"
+    },
+    {
+      "field": "matched_skills",
+      "has_value": 320,
+      "coverage": "64.00%"
+    },
+    {
+      "field": "latest_company",
+      "has_value": 500,
+      "coverage": "100.00%"
+    },
+    {
+      "field": "latest_title",
+      "has_value": 500,
+      "coverage": "100.00%"
+    },
+    {
+      "field": "highest_degree",
+      "has_value": 500,
+      "coverage": "100.00%"
+    },
+    {
+      "field": "full_text",
+      "has_value": 500,
+      "coverage": "100.00%"
+    }
+  ],
+  "both_skills_and_companies_empty_sample": [
+    {
+      "user_id": "U000066",
+      "name": "马凯",
+      "latest_company": "理想汽车",
+      "latest_title": "iOS开发工程师"
+    },
+    {
+      "user_id": "U000093",
+      "name": "冯秀英",
+      "latest_company": "某互联网创业公司",
+      "latest_title": "高级前端开发工程师"
+    },
+    {
+      "user_id": "U000142",
+      "name": "刘婷",
+      "latest_company": "中软国际",
+      "latest_title": "Python开发工程师"
+    },
+    {
+      "user_id": "U000422",
+      "name": "谢雨桐",
+      "latest_company": "东软集团",
+      "latest_title": "研发负责人"
+    },
+    {
+      "user_id": "U000479",
+      "name": "冯思源",
+      "latest_company": "工商银行软件开发中心",
+      "latest_title": "数据工程师"
+    },
+    {
+      "user_id": "U000483",
+      "name": "唐娜",
+      "latest_company": "中软国际",
+      "latest_title": "全栈开发工程师"
+    },
+    {
+      "user_id": "U000499",
+      "name": "徐伟",
+      "latest_company": "软通动力",
+      "latest_title": "运维开发工程师"
+    }
+  ]
+}

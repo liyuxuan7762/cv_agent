@@ -55,8 +55,6 @@
 
 ### 前置条件
 
-- Epic 05 / Issue 01 已完成：`company_dictionary` 已创建。
-- Epic 05 / Issue 02 已完成：n8n 能基于公司标签查询候选人。
 - Epic 06 / Issue 01 已完成：技能与公司标签组合查询已验证。
 - `candidate_search_index` 中存在：
   - `matched_companies`

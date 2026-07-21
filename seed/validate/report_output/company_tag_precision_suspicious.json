@@ -1,0 +1,3725 @@
+[
+  {
+    "user_id": "U000001",
+    "name": "杨伟",
+    "matched_companies": [
+      "网易",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "网易\nPython开发工程师\n在项目中承担Python开发工程师角色，参与自动化测试平台从设计到上线的完整流程，熟悉React、Vue、Angular，具备良好的工程实践和团队协作经验。\n软通动力\n高级前端开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000009",
+    "name": "宋磊",
+    "matched_companies": [
+      "携程",
+      "海康威视",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "安防",
+      "硬件",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程旅行网\n研发负责人\n主导或参与知识库检索系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用C++、Linux、多线程、网络编程、Qt提升系统可维护性和交付效率。\n海康威视\nAndroid开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为金融风控系统，主要技术包括iOS、Swift、Objective-C、UIKit、SwiftUI。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000010",
+    "name": "胡晨",
+    "matched_companies": [
+      "小米",
+      "拼多多",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "电商",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "拼多多\n安全工程师\n主导或参与自然语言处理平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Node.js、Express、NestJS、TypeScript提升系统可维护性和交付效率。\n小米\n机器学习工程师\n参与公司核心业务系统研发，围绕知识库检索系统进行架构优化和稳定性建设，熟悉iOS、Swift、Objective-C、UIKit、SwiftUI，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000014",
+    "name": "萧婷",
+    "matched_companies": [
+      "快手",
+      "bilibili",
+      "中国移动",
+      "商汤科技",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "视频",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "AI",
+      "计算机视觉",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "快手\nAI工程师\n参与RAG问答系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用C++、Linux、多线程。\nB站\niOS开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为信贷审批系统，主要技术包括Node.js、Express、NestJS、TypeScript。\n商汤科技\n大数据开发工程师\n负责相关业务模块的开发和维护，支持产品快速",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000015",
+    "name": "杨嘉豪",
+    "matched_companies": [
+      "拼多多",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "某制造业数字化公司\n数据工程师\n在项目中承担数据工程师角色，参与电商交易系统从设计到上线的完整流程，熟悉Node.js、Express、NestJS、TypeScript、MongoDB，具备良好的工程实践和团队协作经验。\n拼多多\n机器学习工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为广告投放平台，主要技术包括Java、Spring MVC、Dubbo、Zookeeper。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000016",
+    "name": "周杰",
+    "matched_companies": [
+      "拼多多",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "拼多多\nAI工程师\n在项目中承担AI工程师角色，参与数据中台从设计到上线的完整流程，熟悉Linux、Shell、Ansible、Nginx，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000018",
+    "name": "韩子涵",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技"
+    ],
+    "experience_text_preview": "蚂蚁集团\n运维开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Java、Spring MVC、Dubbo、Zookeeper、RocketMQ。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000019",
+    "name": "冯欣怡",
+    "matched_companies": [
+      "bilibili",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "理想汽车\n前端开发工程师\n在理想汽车参与数据中台建设，担任前端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Java、Spring MVC、Dubbo、Zookeeper、RocketMQ。\n中软国际\nDevOps工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为CRM客户管理系统，主要技术包括Linux、Shell、Ansible。\nB站\n算法工",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000020",
+    "name": "何欣怡",
+    "matched_companies": [
+      "拼多多",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "拼多多\n数据分析师\n参与RAG问答系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用C++、Linux、多线程、网络编程、Qt、嵌入式系统。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000023",
+    "name": "周嘉豪",
+    "matched_companies": [
+      "携程",
+      "金蝶"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "企业软件",
+      "ERP",
+      "著名企业"
+    ],
+    "experience_text_preview": "金蝶软件\nPython开发工程师\n参与公司核心业务系统研发，围绕金融风控系统进行架构优化和稳定性建设，熟悉Hadoop、Spark、Flink、Hive，能够处理高并发和复杂业务场景。\n携程\n高级Java开发工程师\n在项目中承担高级Java开发工程师角色，参与订单履约系统从设计到上线的完整流程，熟悉Python、Django、Flask、FastAPI、PostgreSQL、Celery，具备良好",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000025",
+    "name": "吴一凡",
+    "matched_companies": [
+      "微博"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体"
+    ],
+    "experience_text_preview": "新浪微博\n安全工程师\n负责实时数仓的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript、Webpack、Vite等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000027",
+    "name": "何鹏",
+    "matched_companies": [
+      "携程",
+      "Amazon",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强",
+      "社交"
+    ],
+    "experience_text_preview": "Amazon\n云计算工程师\n参与内容审核系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Go、Gin、gRPC、Etcd。\n携程\n后端开发工程师\n负责数据中台的需求分析、系统设计和功能开发，使用C++、Linux、多线程等技术完成服务拆分、接口联调、上线发布和问题排查。\n某跨境电商公司\n全栈开发工程师\n在项目中承担全栈开发工程师角色，参与实时数仓从设计到上线的",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000028",
+    "name": "董鹏",
+    "matched_companies": [
+      "携程"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA"
+    ],
+    "experience_text_preview": "携程旅行网\n数据工程师\n负责监控告警平台的需求分析、系统设计和功能开发，使用Hadoop、Spark、Flink、Hive等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000031",
+    "name": "张一凡",
+    "matched_companies": [
+      "网易",
+      "比亚迪",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "汽车",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "比亚迪\n嵌入式软件工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Node.js、Express、NestJS、TypeScript。\n网易\nAndroid开发工程师\n在网易参与工业物联网平台建设，担任Android开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、TensorFlow、PyTorc",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000034",
+    "name": "周鹏",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "蚂蚁金服\n技术经理\n参与公司核心业务系统研发，围绕自然语言处理平台进行架构优化和稳定性建设，熟悉Python、Django、Flask，能够处理高并发和复杂业务场景。\nInfosys\n大数据开发工程师\n主导或参与监控告警平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Linux、Shell、Ansible提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000035",
+    "name": "胡敏",
+    "matched_companies": [
+      "阿里巴巴",
+      "小米",
+      "蚂蚁集团",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "硬件",
+      "消费电子",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "蚂蚁集团\n云计算工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为广告投放平台，主要技术包括iOS、Swift、Objective-C、UIKit。\n蚂蚁集团\n嵌入式软件工程师\n主导或参与电商交易系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。\n小米\n机器学习工程师\n在小米参与信贷审批系统建设，担任机",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000037",
+    "name": "黄凯",
+    "matched_companies": [
+      "小米",
+      "中国移动",
+      "宁德时代",
+      "旷视科技",
+      "Twitter",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "新能源",
+      "制造业",
+      "AI",
+      "计算机视觉",
+      "外企",
+      "互联网",
+      "社交",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "宁德时代\n大数据开发工程师\n参与公司核心业务系统研发，围绕小程序平台进行架构优化和稳定性建设，熟悉Java、Spring MVC、Dubbo、Zookeeper、RocketMQ、Oracle，能够处理高并发和复杂业务场景。\n小米\nDevOps工程师\n负责移动端App的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript、MongoDB等技术完成服务",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000042",
+    "name": "冯敏",
+    "matched_companies": [
+      "快手",
+      "Uber",
+      "IBM",
+      "Accenture"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "出行",
+      "科技",
+      "企业软件",
+      "世界500强",
+      "咨询",
+      "IT咨询"
+    ],
+    "experience_text_preview": "ThoughtWorks\n高级后端开发工程师\n负责RAG问答系统的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript、Webpack等技术完成服务拆分、接口联调、上线发布和问题排查。\n小鹏汽车\n算法工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为自然语言处理平台，主要技术包括Java、Spring Boot、Spring Cloud、M",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000047",
+    "name": "林建国",
+    "matched_companies": [
+      "小米"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子"
+    ],
+    "experience_text_preview": "小米\n架构师\n在小米参与物流调度系统建设，担任架构师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angular。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000049",
+    "name": "徐超",
+    "matched_companies": [
+      "bilibili",
+      "宁德时代",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "宁德时代\nAndroid开发工程师\n在宁德时代参与支付清结算平台建设，担任Android开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Go、Gin、gRPC、Etcd、Kafka、Kubernetes。\n软通动力\n高级前端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为工业物联网平台，主要技术包括Docker、Kubernetes、Jenki",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000054",
+    "name": "周鑫",
+    "matched_companies": [
+      "小米",
+      "Microsoft",
+      "Uber",
+      "Accenture"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强",
+      "互联网",
+      "出行",
+      "咨询",
+      "IT咨询"
+    ],
+    "experience_text_preview": "小米\n嵌入式软件工程师\n参与小程序平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Docker、Kubernetes、Jenkins、GitLab CI、Prometheus。\n微软中国\niOS开发工程师\n在微软中国参与自动化测试平台建设，担任iOS开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Go、Gin、gRPC、Etcd、K",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000055",
+    "name": "郑雨桐",
+    "matched_companies": [
+      "贝壳",
+      "招商银行",
+      "宁德时代",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "金融",
+      "银行",
+      "著名企业",
+      "新能源",
+      "制造业",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "招商银行信用卡中心\n高级Java开发工程师\n负责图像识别系统的需求分析、系统设计和功能开发，使用Go、Gin、gRPC、Etcd、Kafka、Kubernetes等技术完成服务拆分、接口联调、上线发布和问题排查。\n同程旅行\n机器学习工程师\n在同程旅行参与电商交易系统建设，担任机器学习工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Android、Kotlin、Java、Je",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000057",
+    "name": "郭雨桐",
+    "matched_companies": [
+      "小米",
+      "Accenture"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "咨询",
+      "IT咨询",
+      "世界500强"
+    ],
+    "experience_text_preview": "Accenture\n运维开发工程师\n参与公司核心业务系统研发，围绕AI模型训练平台进行架构优化和稳定性建设，熟悉网络安全、渗透测试、安全加固、漏洞扫描，能够处理高并发和复杂业务场景。\n小米\n安全工程师\n参与自然语言处理平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Hadoop、Spark、Flink。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000059",
+    "name": "萧涛",
+    "matched_companies": [
+      "bilibili",
+      "用友",
+      "科大讯飞"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "AI",
+      "语音识别"
+    ],
+    "experience_text_preview": "用友网络\n产品研发工程师\n主导或参与广告投放平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Go、Gin、gRPC提升系统可维护性和交付效率。\nB站\nAndroid开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Python、TensorFlow、PyTorch、机器学习。\n科大讯飞\n高级前端开发工程师\n参与自动化测试平台",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000060",
+    "name": "孙洋",
+    "matched_companies": [
+      "滴滴",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "滴滴\n全栈开发工程师\n参与公司核心业务系统研发，围绕云原生基础设施平台进行架构优化和稳定性建设，熟悉网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000061",
+    "name": "于欣怡",
+    "matched_companies": [
+      "快手",
+      "微博",
+      "中国移动",
+      "宁德时代",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "社交",
+      "媒体",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "新能源",
+      "制造业",
+      "外企",
+      "互联网"
+    ],
+    "experience_text_preview": "宁德时代\n高级Java开发工程师\n在项目中承担高级Java开发工程师角色，参与BI报表平台从设计到上线的完整流程，熟悉Android、Kotlin、Java、Jetpack、Gradle，具备良好的工程实践和团队协作经验。\n快手\n高级前端开发工程师\n主导或参与BI报表平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用iOS、Swift、Objective-C、UIKit、SwiftUI提",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000069",
+    "name": "吴建国",
+    "matched_companies": [
+      "小米"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子"
+    ],
+    "experience_text_preview": "小米\n大数据开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含网络安全、渗透测试、安全加固。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000073",
+    "name": "唐明",
+    "matched_companies": [
+      "小米",
+      "商汤科技",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "AI",
+      "计算机视觉",
+      "著名企业",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "东软集团\nJava开发工程师\n参与公司核心业务系统研发，围绕物流调度系统进行架构优化和稳定性建设，熟悉Docker、Kubernetes、Jenkins、GitLab CI、Prometheus，能够处理高并发和复杂业务场景。\n小米\n高级后端开发工程师\n主导或参与用户增长平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Go、Gin、gRPC、Etcd、Kafka、Kubernetes提",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000079",
+    "name": "韩佳",
+    "matched_companies": [
+      "拼多多"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商"
+    ],
+    "experience_text_preview": "拼多多\nDevOps工程师\n主导或参与内容审核系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。\n蔚来汽车\n研发负责人\n负责自动化测试平台的需求分析、系统设计和功能开发，使用Hadoop、Spark、Flink、Hive、HBase等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000080",
+    "name": "赵鑫",
+    "matched_companies": [
+      "滴滴",
+      "携程",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "滴滴\nGo开发工程师\n参与公司核心业务系统研发，围绕小程序平台进行架构优化和稳定性建设，熟悉Java、Spring Boot、Spring Cloud、MyBatis、Redis，能够处理高并发和复杂业务场景。\n某制造业数字化公司\n产品研发工程师\n在项目中承担产品研发工程师角色，参与CRM客户管理系统从设计到上线的完整流程，熟悉iOS、Swift、Objective-C、UIKit、SwiftUI",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000081",
+    "name": "唐鑫",
+    "matched_companies": [
+      "bilibili",
+      "旷视科技",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "AI",
+      "计算机视觉",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "旷视科技\n云计算工程师\n参与公司核心业务系统研发，围绕AI模型训练平台进行架构优化和稳定性建设，熟悉Java、Spring MVC、Dubbo、Zookeeper，能够处理高并发和复杂业务场景。\n某制造业数字化公司\n产品研发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Python、Django、Flask、FastAPI。\nB站\n数据",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000085",
+    "name": "于佳",
+    "matched_companies": [
+      "携程",
+      "中国移动",
+      "用友",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "企业软件",
+      "ERP",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程\n机器学习工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为监控告警平台，主要技术包括网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规。\n用友网络\n全栈开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为实时数仓，主要技术包括C++、Linux、多线程、网络编程、Qt、嵌入式系统。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000087",
+    "name": "冯雪",
+    "matched_companies": [
+      "微博"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体"
+    ],
+    "experience_text_preview": "新浪微博\n产品研发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为MES制造执行系统，主要技术包括Android、Kotlin、Java、Jetpack。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000092",
+    "name": "杨雪",
+    "matched_companies": [
+      "拼多多",
+      "bilibili"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "视频",
+      "内容平台"
+    ],
+    "experience_text_preview": "B站\nGo开发工程师\n负责金融风控系统的需求分析、系统设计和功能开发，使用Python、Django、Flask、FastAPI等技术完成服务拆分、接口联调、上线发布和问题排查。\n拼多多\n高级前端开发工程师\n在项目中承担高级前端开发工程师角色，参与内容审核系统从设计到上线的完整流程，熟悉Hadoop、Spark、Flink、Hive、HBase、Kafka，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000094",
+    "name": "于鑫",
+    "matched_companies": [
+      "微博",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网"
+    ],
+    "experience_text_preview": "某跨境电商公司\n云计算工程师\n在某跨境电商公司参与信贷审批系统建设，担任云计算工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Node.js、Express、NestJS。\n新浪微博\n数据分析师\n参与公司核心业务系统研发，围绕内容审核系统进行架构优化和稳定性建设，熟悉Hadoop、Spark、Flink、Hive，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000096",
+    "name": "孙宇",
+    "matched_companies": [
+      "携程",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程\n研发负责人\n主导或参与电商交易系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Node.js、Express、NestJS、TypeScript、MongoDB、Redis提升系统可维护性和交付效率。\n工商银行软件开发中心\nGo开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为RAG问答系统，主要技术包括Java、Spring Boot、Spring Cl",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000097",
+    "name": "吴凯",
+    "matched_companies": [
+      "bilibili",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "B站\niOS开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为订单履约系统，主要技术包括C++、Linux、多线程、网络编程、Qt、嵌入式系统。\n中软国际\nJava开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为信贷审批系统，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis、Redis、Kafka。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000098",
+    "name": "萧欣怡",
+    "matched_companies": [
+      "滴滴"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行"
+    ],
+    "experience_text_preview": "滴滴\nNode.js开发工程师\n主导或参与物流调度系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Go、Gin、gRPC、Etcd提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000099",
+    "name": "谢一凡",
+    "matched_companies": [
+      "阿里巴巴",
+      "拼多多",
+      "蚂蚁集团",
+      "中国移动",
+      "比亚迪",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "汽车",
+      "新能源",
+      "制造业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "蚂蚁金服\n软件测试工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Docker、Kubernetes、Jenkins、GitLab CI、Prometheus、Grafana。\n比亚迪\n研发负责人\n参与ERP业务系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Node.js、Express、NestJ",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000101",
+    "name": "李凯",
+    "matched_companies": [
+      "快手",
+      "Twitter",
+      "Uber",
+      "IBM"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "科技",
+      "企业软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "IBM\nAndroid开发工程师\n参与自动化测试平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Linux、Shell、Ansible。\nThoughtWorks\nJava开发工程师\n主导或参与金融风控系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Docker、Kubernetes、Jenkins、GitLab CI、Prometheus提升系统",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000113",
+    "name": "张超",
+    "matched_companies": [
+      "网易",
+      "中国移动",
+      "科大讯飞",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "AI",
+      "语音识别",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "网易\n全栈开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为订单履约系统，主要技术包括Docker、Kubernetes、Jenkins、GitLab CI、Prometheus。\n科大讯飞\n产品研发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为物流调度系统，主要技术包括Android、Kotlin、Java、Jetpack、Gradle、移动端开发",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000116",
+    "name": "胡娜",
+    "matched_companies": [
+      "阿里巴巴",
+      "贝壳",
+      "蚂蚁集团",
+      "Microsoft",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "房产",
+      "金融科技",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "小鹏汽车\nDevOps工程师\n负责企业协同办公系统的需求分析、系统设计和功能开发，使用Linux、Shell、Ansible、Nginx等技术完成服务拆分、接口联调、上线发布和问题排查。\n蚂蚁金服\nJava开发工程师\n参与智能客服系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用C++、Linux、多线程、网络编程。\n微软中国\n嵌入式软件工程师\n在微软中国参与电",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000117",
+    "name": "高秀英",
+    "matched_companies": [
+      "拼多多",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "Momenta\niOS开发工程师\n在Momenta参与自动化测试平台建设，担任iOS开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括网络安全、渗透测试、安全加固。\n拼多多\n安全工程师\n负责物流调度系统的需求分析、系统设计和功能开发，使用Python、TensorFlow、PyTorch、机器学习等技术完成服务拆分、接口联调、上线发布和问题排查。\n同程旅行\n研发负责人\n在",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000118",
+    "name": "胡婷",
+    "matched_companies": [
+      "快手",
+      "Twitter",
+      "Accenture",
+      "Siemens"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交",
+      "咨询",
+      "IT咨询",
+      "世界500强",
+      "工业",
+      "制造业"
+    ],
+    "experience_text_preview": "快手\n运维开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为用户增长平台，主要技术包括Node.js、Express、NestJS、TypeScript。\nSiemens\nGo开发工程师\n负责ERP业务系统的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF等技术完成服务拆分、接口联调、上线发布和问题排查。\nAccenture\n高级后端开发工程",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000120",
+    "name": "董宇",
+    "matched_companies": [
+      "网易",
+      "快手",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "ThoughtWorks\n架构师\n参与知识库检索系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用iOS、Swift、Objective-C、UIKit。\n网易\n运维开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为实时数仓，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000122",
+    "name": "郑涛",
+    "matched_companies": [
+      "bilibili",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "B站\n运维开发工程师\n负责推荐系统的需求分析、系统设计和功能开发，使用C++、Linux、多线程、网络编程等技术完成服务拆分、接口联调、上线发布和问题排查。\n中软国际\n机器学习工程师\n在中软国际参与自动化测试平台建设，担任机器学习工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程、网络编程。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000126",
+    "name": "郑梓轩",
+    "matched_companies": [
+      "快手",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "快手\n运维开发工程师\n主导或参与自动化测试平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java、Jetpack、Gradle、移动端开发提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000129",
+    "name": "赵子涵",
+    "matched_companies": [
+      "滴滴"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行"
+    ],
+    "experience_text_preview": "滴滴\nAndroid开发工程师\n参与监控告警平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Java、Spring Boot、Spring Cloud、MyBatis。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000132",
+    "name": "朱睿",
+    "matched_companies": [
+      "贝壳",
+      "微博",
+      "Amazon",
+      "Twitter",
+      "Uber",
+      "SAP"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强",
+      "出行",
+      "ERP",
+      "企业软件"
+    ],
+    "experience_text_preview": "Amazon\n安全工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Docker、Kubernetes、Jenkins。\n新浪微博\n测试开发工程师\n在项目中承担测试开发工程师角色，参与实时数仓从设计到上线的完整流程，熟悉C++、Linux、多线程、网络编程、Qt、嵌入式系统，具备良好的工程实践和团队协作经验。\n贝壳找房\n软件测试工程师\n负责",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000134",
+    "name": "郑雪",
+    "matched_companies": [
+      "阿里巴巴",
+      "快手",
+      "蚂蚁集团",
+      "中国移动",
+      "Amazon",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "短视频",
+      "内容平台",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "云计算",
+      "世界500强",
+      "社交"
+    ],
+    "experience_text_preview": "Infosys\nPython开发工程师\n在Infosys参与CRM客户管理系统建设，担任Python开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括网络安全、渗透测试、安全加固、漏洞扫描。\n蚂蚁金服\n安全工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Python、TensorFlow、PyTorch、机器学习",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000138",
+    "name": "罗雨桐",
+    "matched_companies": [
+      "滴滴",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "滴滴\n大数据开发工程师\n在滴滴参与知识库检索系统建设，担任大数据开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Node.js、Express、NestJS、TypeScript、MongoDB、Redis。\nMomenta\n云计算工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为云原生基础设施平台，主要技术包括Java、Spring MVC、Dub",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000139",
+    "name": "韩秀英",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技"
+    ],
+    "experience_text_preview": "自如\n机器学习工程师\n在自如参与RAG问答系统建设，担任机器学习工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Go、Gin、gRPC、Etcd、Kafka。\n蚂蚁集团\nNode.js开发工程师\n在项目中承担Node.js开发工程师角色，参与自然语言处理平台从设计到上线的完整流程，熟悉Hadoop、Spark、Flink、Hive、HBase，具备良好的工程实践和团队协作经",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000143",
+    "name": "王俊",
+    "matched_companies": [
+      "拼多多",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "拼多多\n数据分析师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为内容审核系统，主要技术包括Docker、Kubernetes、Jenkins、GitLab CI。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000147",
+    "name": "罗晨",
+    "matched_companies": [
+      "快手",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "ThoughtWorks\n云计算工程师\n在项目中承担云计算工程师角色，参与订单履约系统从设计到上线的完整流程，熟悉Hadoop、Spark、Flink、Hive，具备良好的工程实践和团队协作经验。\n蔚来汽车\n算法工程师\n主导或参与用户增长平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Node.js、Express、NestJS、TypeScript、MongoDB提升系统可维护性和交",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000148",
+    "name": "王秀英",
+    "matched_companies": [
+      "bilibili",
+      "携程",
+      "微博",
+      "Twitter",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "携程旅行网\n高级前端开发工程师\n在携程旅行网参与推荐系统建设，担任高级前端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程、网络编程、Qt。\nOracle\niOS开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为支付清结算平台，主要技术包括C++、Linux、多线程。\n新浪微博\nAndroid开发工程师\n参与小程序平台的",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000149",
+    "name": "梁佳",
+    "matched_companies": [
+      "滴滴",
+      "比亚迪",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "汽车",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "比亚迪\n软件测试工程师\n参与工业物联网平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Java、Spring MVC、Dubbo、Zookeeper、RocketMQ、Oracle。\n滴滴\n架构师\n主导或参与图像识别系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000151",
+    "name": "赵伟",
+    "matched_companies": [
+      "阿里巴巴",
+      "贝壳",
+      "蚂蚁集团",
+      "金蝶",
+      "Amazon",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "房产",
+      "金融科技",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "云计算",
+      "世界500强",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "金蝶软件\n架构师\n参与公司核心业务系统研发，围绕图像识别系统进行架构优化和稳定性建设，熟悉Linux、Shell、Ansible，能够处理高并发和复杂业务场景。\n贝壳找房\n架构师\n参与公司核心业务系统研发，围绕金融风控系统进行架构优化和稳定性建设，熟悉Docker、Kubernetes、Jenkins、GitLab CI、Prometheus，能够处理高并发和复杂业务场景。\nAmazon\n运维开发",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000153",
+    "name": "谢强华",
+    "matched_companies": [
+      "滴滴",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "滴滴\n云计算工程师\n在项目中承担云计算工程师角色，参与监控告警平台从设计到上线的完整流程，熟悉Python、TensorFlow、PyTorch，具备良好的工程实践和团队协作经验。\n工商银行软件开发中心\n数据分析师\n负责订单履约系统的需求分析、系统设计和功能开发，使用iOS、Swift、Objective-C等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000154",
+    "name": "高睿",
+    "matched_companies": [
+      "bilibili",
+      "中国移动",
+      "Microsoft"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "微软中国\n安全工程师\n在微软中国参与订单履约系统建设，担任安全工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angular。\nB站\n安全工程师\n主导或参与移动端App相关项目，负责关键功能开发、代码评审和线上故障处理，使用Java、Spring Boot、Spring Cloud、MyBatis、Redis、Kafka提升系统可维护性和交付效率。\n某制",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000156",
+    "name": "谢建国",
+    "matched_companies": [
+      "阿里巴巴",
+      "滴滴",
+      "蚂蚁集团",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "出行",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "蚂蚁集团\n软件测试工程师\n负责物流调度系统的需求分析、系统设计和功能开发，使用Linux、Shell、Ansible、Nginx等技术完成服务拆分、接口联调、上线发布和问题排查。\n滴滴\nJava开发工程师\n参与内容审核系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用iOS、Swift、Objective-C。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000159",
+    "name": "吴婷",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "中国移动",
+      "用友",
+      "Uber",
+      "IBM",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "企业软件",
+      "ERP",
+      "外企",
+      "互联网",
+      "出行",
+      "科技",
+      "世界500强",
+      "数据库"
+    ],
+    "experience_text_preview": "用友网络\n技术经理\n在项目中承担技术经理角色，参与金融风控系统从设计到上线的完整流程，熟悉Python、Django、Flask，具备良好的工程实践和团队协作经验。\n蚂蚁金服\n机器学习工程师\n在蚂蚁金服参与信贷审批系统建设，担任机器学习工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Docker、Kubernetes、Jenkins、GitLab CI、Prometheus",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000163",
+    "name": "高宇",
+    "matched_companies": [
+      "阿里巴巴",
+      "网易",
+      "蚂蚁集团",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "游戏",
+      "教育",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "蚂蚁集团\n高级后端开发工程师\n在蚂蚁集团参与云原生基础设施平台建设，担任高级后端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Linux、Shell、Ansible、Nginx。\n网易\n嵌入式软件工程师\n在网易参与金融风控系统建设，担任嵌入式软件工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括iOS、Swift、Objective-C、UIKi",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000168",
+    "name": "周军",
+    "matched_companies": [
+      "滴滴",
+      "中国移动",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "滴滴\n技术经理\n主导或参与电商交易系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Go、Gin、gRPC、Etcd提升系统可维护性和交付效率。\n小鹏汽车\n云计算工程师\n负责小程序平台的需求分析、系统设计和功能开发，使用Hadoop、Spark、Flink等技术完成服务拆分、接口联调、上线发布和问题排查。\nInfosys\n云计算工程师\n参与RAG问答系统的重构和优化工作，针对慢查询、接口",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000169",
+    "name": "马嘉豪",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "蚂蚁金服\n大数据开发工程师\n在项目中承担大数据开发工程师角色，参与内容审核系统从设计到上线的完整流程，熟悉Docker、Kubernetes、Jenkins、GitLab CI、Prometheus，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000172",
+    "name": "吴娜",
+    "matched_companies": [
+      "小米",
+      "中国移动",
+      "宁德时代",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "新能源",
+      "制造业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "同程旅行\nDevOps工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为金融风控系统，主要技术包括Linux、Shell、Ansible。\n中软国际\n架构师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含React、Vue、Angular。\n小米\n嵌入式软件工程师\n参与用户增长平台的重构和优化工作，针对慢查询、接口超时、消息",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000178",
+    "name": "徐佳",
+    "matched_companies": [
+      "阿里巴巴",
+      "拼多多",
+      "蚂蚁集团",
+      "Twitter",
+      "Uber",
+      "SAP"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "ERP",
+      "企业软件"
+    ],
+    "experience_text_preview": "拼多多\n运维开发工程师\n参与公司核心业务系统研发，围绕用户增长平台进行架构优化和稳定性建设，熟悉Java、Spring Boot、Spring Cloud，能够处理高并发和复杂业务场景。\n蚂蚁金服\n后端开发工程师\n参与CRM客户管理系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Go、Gin、gRPC、Etcd、Kafka、Kubernetes。\nSAP\n技术",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000179",
+    "name": "宋晨",
+    "matched_companies": [
+      "bilibili",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "理想汽车\n产品研发工程师\n负责自然语言处理平台的需求分析、系统设计和功能开发，使用Linux、Shell、Ansible等技术完成服务拆分、接口联调、上线发布和问题排查。\nB站\n后端开发工程师\n负责工业物联网平台的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript等技术完成服务拆分、接口联调、上线发布和问题排查。\n自如\n技术经理\n参与公司核心业务系",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000181",
+    "name": "罗婷",
+    "matched_companies": [
+      "快手",
+      "宁德时代",
+      "Google",
+      "Twitter",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强",
+      "社交",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "某互联网创业公司\n数据分析师\n在某互联网创业公司参与推荐系统建设，担任数据分析师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Node.js、Express、NestJS、TypeScript。\nOracle\n数据工程师\n参与监控告警平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用网络安全、渗透测试、安全加固、漏洞扫描。\n快手\n后端开发工程",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000182",
+    "name": "朱建国",
+    "matched_companies": [
+      "小米",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "小米\n研发负责人\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为监控告警平台，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis、Redis。\n自如\n研发负责人\n参与公司核心业务系统研发，围绕ERP业务系统进行架构优化和稳定性建设，熟悉Hadoop、Spark、Flink、Hive、HBase，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000183",
+    "name": "郭勇",
+    "matched_companies": [
+      "小米",
+      "中国移动",
+      "金蝶",
+      "Twitter",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "企业软件",
+      "ERP",
+      "外企",
+      "互联网",
+      "社交",
+      "汽车零部件",
+      "制造业",
+      "世界500强"
+    ],
+    "experience_text_preview": "小米\nAndroid开发工程师\n在项目中承担Android开发工程师角色，参与自动化测试平台从设计到上线的完整流程，熟悉网络安全、渗透测试、安全加固、漏洞扫描，具备良好的工程实践和团队协作经验。\n软通动力\n高级Java开发工程师\n参与公司核心业务系统研发，围绕RAG问答系统进行架构优化和稳定性建设，熟悉React、Vue、Angular、TypeScript，能够处理高并发和复杂业务场景。\nBos",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000184",
+    "name": "宋军",
+    "matched_companies": [
+      "携程",
+      "金蝶",
+      "科大讯飞",
+      "Google",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "AI",
+      "语音识别",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "Google\niOS开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为RAG问答系统，主要技术包括C++、Linux、多线程、网络编程。\n携程旅行网\n架构师\n在携程旅行网参与BI报表平台建设，担任架构师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程。\n科大讯飞\nAndroid开发工程师\n在科大讯飞参与企业协同办公系统建设，担任A",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000186",
+    "name": "赵梓轩",
+    "matched_companies": [
+      "微博",
+      "海康威视",
+      "Microsoft",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体",
+      "安防",
+      "硬件",
+      "著名企业",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强",
+      "互联网"
+    ],
+    "experience_text_preview": "新浪微博\n安全工程师\n负责用户增长平台的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规等技术完成服务拆分、接口联调、上线发布和问题排查。\n海康威视\n研发负责人\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为物流调度系统，主要技术包括Linux、Shell、Ansible、Nginx、MySQL。\n微软中国\nNode.js开发工程师\n主导或",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000189",
+    "name": "董强华",
+    "matched_companies": [
+      "贝壳",
+      "旷视科技",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "AI",
+      "计算机视觉",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "贝壳找房\n大数据开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Node.js、Express、NestJS、TypeScript。\n旷视科技\n安全工程师\n主导或参与实时数仓相关项目，负责关键功能开发、代码评审和线上故障处理，使用Go、Gin、gRPC、Etcd提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000192",
+    "name": "朱涛",
+    "matched_companies": [
+      "bilibili",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "某制造业数字化公司\n安全工程师\n在项目中承担安全工程师角色，参与自然语言处理平台从设计到上线的完整流程，熟悉Java、Spring MVC、Dubbo、Zookeeper、RocketMQ、Oracle，具备良好的工程实践和团队协作经验。\nB站\n运维开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Java、Spring MVC、Dub",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000193",
+    "name": "李杰",
+    "matched_companies": [
+      "滴滴",
+      "携程",
+      "中国平安",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "旅游",
+      "OTA",
+      "金融",
+      "保险",
+      "著名企业",
+      "通信",
+      "运营商",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程\n测试开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含C++、Linux、多线程、网络编程、Qt、嵌入式系统。\nMomenta\nAI工程师\n参与数据中台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用iOS、Swift、Objective-C、UIKit、SwiftUI、移动端开发。\n平安科技\n云",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000196",
+    "name": "唐梓轩",
+    "matched_companies": [
+      "携程",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "携程旅行网\n数据分析师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为自然语言处理平台，主要技术包括Go、Gin、gRPC、Etcd、Kafka、Kubernetes。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000197",
+    "name": "郭宇",
+    "matched_companies": [
+      "网易",
+      "bilibili",
+      "Twitter",
+      "Uber",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "汽车零部件",
+      "制造业",
+      "世界500强"
+    ],
+    "experience_text_preview": "网易\n高级后端开发工程师\n主导或参与知识库检索系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Docker、Kubernetes、Jenkins、GitLab CI提升系统可维护性和交付效率。\nBosch\n全栈开发工程师\n参与公司核心业务系统研发，围绕AI模型训练平台进行架构优化和稳定性建设，熟悉Python、TensorFlow、PyTorch、机器学习，能够处理高并发和复杂业务场景",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000199",
+    "name": "于军",
+    "matched_companies": [
+      "携程",
+      "Uber",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "出行",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "Oracle\n高级前端开发工程师\n参与公司核心业务系统研发，围绕广告投放平台进行架构优化和稳定性建设，熟悉Java、Spring MVC、Dubbo，能够处理高并发和复杂业务场景。\n携程旅行网\n前端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为用户增长平台，主要技术包括Go、Gin、gRPC、Etcd、Kafka、Kubernetes。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000205",
+    "name": "吴子涵",
+    "matched_companies": [
+      "拼多多",
+      "Twitter",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "社交",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "Momenta\n算法工程师\n参与公司核心业务系统研发，围绕RAG问答系统进行架构优化和稳定性建设，熟悉Java、Spring Boot、Spring Cloud，能够处理高并发和复杂业务场景。\n拼多多\n测试开发工程师\n负责小程序平台的需求分析、系统设计和功能开发，使用Java、Spring MVC、Dubbo、Zookeeper、RocketMQ、Oracle等技术完成服务拆分、接口联调、上线发布",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000207",
+    "name": "高嘉豪",
+    "matched_companies": [
+      "携程",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程旅行网\n高级后端开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含C++、Linux、多线程、网络编程、Qt、嵌入式系统。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000209",
+    "name": "周建国",
+    "matched_companies": [
+      "携程",
+      "贝壳",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "房产",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "贝壳找房\n嵌入式软件工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Docker、Kubernetes、Jenkins、GitLab CI。\n携程旅行网\n产品研发工程师\n主导或参与实时数仓相关项目，负责关键功能开发、代码评审和线上故障处理，使用C++、Linux、多线程提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000210",
+    "name": "郑丽",
+    "matched_companies": [
+      "快手",
+      "用友",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "数据库"
+    ],
+    "experience_text_preview": "用友网络\nJava开发工程师\n参与公司核心业务系统研发，围绕自然语言处理平台进行架构优化和稳定性建设，熟悉Java、Spring MVC、Dubbo、Zookeeper，能够处理高并发和复杂业务场景。\nThoughtWorks\n产品研发工程师\n负责BI报表平台的需求分析、系统设计和功能开发，使用Python、TensorFlow、PyTorch、机器学习、深度学习、NLP等技术完成服务拆分、接口联",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000211",
+    "name": "萧子涵",
+    "matched_companies": [
+      "阿里巴巴",
+      "携程",
+      "招商银行",
+      "蚂蚁集团",
+      "科大讯飞",
+      "Twitter",
+      "IBM"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "旅游",
+      "OTA",
+      "金融",
+      "银行",
+      "著名企业",
+      "金融科技",
+      "AI",
+      "语音识别",
+      "外企",
+      "互联网",
+      "社交",
+      "科技",
+      "企业软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "IBM\n数据分析师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为用户增长平台，主要技术包括C++、Linux、多线程。\n携程\nAndroid开发工程师\n在项目中承担Android开发工程师角色，参与监控告警平台从设计到上线的完整流程，熟悉Java、Spring MVC、Dubbo、Zookeeper、RocketMQ，具备良好的工程实践和团队协作经验。\n蚂蚁集团\nAI工程师\n主导",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000215",
+    "name": "周丽",
+    "matched_companies": [
+      "微博",
+      "Amazon",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强"
+    ],
+    "experience_text_preview": "新浪微博\n云计算工程师\n在项目中承担云计算工程师角色，参与推荐系统从设计到上线的完整流程，熟悉网络安全、渗透测试、安全加固，具备良好的工程实践和团队协作经验。\nAmazon\nGo开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为订单履约系统，主要技术包括C++、Linux、多线程、网络编程、Qt。\n自如\n运维开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000216",
+    "name": "周凯",
+    "matched_companies": [
+      "贝壳",
+      "Amazon"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强"
+    ],
+    "experience_text_preview": "Amazon\n运维开发工程师\n在Amazon参与图像识别系统建设，担任运维开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angular、TypeScript、Webpack。\n软通动力\n云计算工程师\n主导或参与MES制造执行系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000218",
+    "name": "何婷",
+    "matched_companies": [
+      "bilibili",
+      "用友",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "用友网络\n测试开发工程师\n在项目中承担测试开发工程师角色，参与BI报表平台从设计到上线的完整流程，熟悉Python、Django、Flask、FastAPI、PostgreSQL，具备良好的工程实践和团队协作经验。\nB站\n高级后端开发工程师\n参与公司核心业务系统研发，围绕推荐系统进行架构优化和稳定性建设，熟悉Go、Gin、gRPC、Etcd、Kafka、Kubernetes，能够处理高并发和复杂业",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000219",
+    "name": "胡超",
+    "matched_companies": [
+      "携程",
+      "招商银行",
+      "中国移动",
+      "比亚迪",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "金融",
+      "银行",
+      "著名企业",
+      "通信",
+      "运营商",
+      "国企",
+      "汽车",
+      "新能源",
+      "制造业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程\n安全工程师\n负责数据中台的需求分析、系统设计和功能开发，使用C++、Linux、多线程、网络编程、Qt等技术完成服务拆分、接口联调、上线发布和问题排查。\n工商银行软件开发中心\n高级后端开发工程师\n主导或参与小程序平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。\n比亚迪\n研发负责人\n参与小程序平台的重构和优化工作，针",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000220",
+    "name": "郭明",
+    "matched_companies": [
+      "阿里巴巴",
+      "滴滴",
+      "蚂蚁集团",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "出行",
+      "金融科技",
+      "外企",
+      "互联网"
+    ],
+    "experience_text_preview": "滴滴\n后端开发工程师\n参与订单履约系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Python、TensorFlow、PyTorch、机器学习、深度学习、NLP。\n蚂蚁金服\n高级后端开发工程师\n参与推荐系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Docker、Kubernetes、Jenkins、GitLab CI、P",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000222",
+    "name": "高睿",
+    "matched_companies": [
+      "快手",
+      "Amazon",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强",
+      "出行"
+    ],
+    "experience_text_preview": "自如\n全栈开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Docker、Kubernetes、Jenkins、GitLab CI、Prometheus。\nAmazon\nDevOps工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Java、Spring Boot、Spring ",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000223",
+    "name": "何凯",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "蚂蚁金服\niOS开发工程师\n参与物流调度系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Hadoop、Spark、Flink、Hive、HBase、Kafka。\n同程旅行\n全栈开发工程师\n在同程旅行参与小程序平台建设，担任全栈开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Java、Spring Boot、Spring Cloud。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000226",
+    "name": "徐睿",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "蚂蚁金服\n架构师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为智能客服系统，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis、Redis、Kafka。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000232",
+    "name": "罗强华",
+    "matched_companies": [
+      "拼多多",
+      "Google",
+      "Microsoft",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强",
+      "软件",
+      "出行"
+    ],
+    "experience_text_preview": "Google\n云计算工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规。\n微软中国\n云计算工程师\n主导或参与金融风控系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Java、Spring Boot、Spring Cloud、MyBatis、Redis、Kafka提升系统可维",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000233",
+    "name": "董磊",
+    "matched_companies": [
+      "微博",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网"
+    ],
+    "experience_text_preview": "某跨境电商公司\niOS开发工程师\n负责物流调度系统的需求分析、系统设计和功能开发，使用Go、Gin、gRPC等技术完成服务拆分、接口联调、上线发布和问题排查。\n新浪微博\nDevOps工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Node.js、Express、NestJS、TypeScript。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000237",
+    "name": "林明",
+    "matched_companies": [
+      "bilibili",
+      "携程",
+      "贝壳",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "房产",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程\n研发负责人\n在项目中承担研发负责人角色，参与广告投放平台从设计到上线的完整流程，熟悉Python、Django、Flask，具备良好的工程实践和团队协作经验。\n贝壳找房\nAndroid开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为企业协同办公系统，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis。\nB站\n高级后端开发工程师\n参",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000239",
+    "name": "梁强华",
+    "matched_companies": [
+      "快手",
+      "携程",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "快手\n前端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为图像识别系统，主要技术包括Hadoop、Spark、Flink、Hive、HBase、Kafka。\n携程\n数据分析师\n在项目中承担数据分析师角色，参与RAG问答系统从设计到上线的完整流程，熟悉Java、Spring MVC、Dubbo，具备良好的工程实践和团队协作经验。\n理想汽车\nAndroid开发工程师\n参与智能",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000247",
+    "name": "周雨桐",
+    "matched_companies": [
+      "快手",
+      "海康威视"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "安防",
+      "硬件",
+      "著名企业"
+    ],
+    "experience_text_preview": "ThoughtWorks\n机器学习工程师\n参与物流调度系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Python、Django、Flask、FastAPI、PostgreSQL、Celery。\n海康威视\n高级后端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为小程序平台，主要技术包括Hadoop、Spark、Flink、Hive、H",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000251",
+    "name": "马娜",
+    "matched_companies": [
+      "阿里巴巴",
+      "携程",
+      "蚂蚁集团",
+      "中国移动",
+      "比亚迪"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "旅游",
+      "OTA",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "汽车",
+      "新能源",
+      "制造业"
+    ],
+    "experience_text_preview": "比亚迪\nNode.js开发工程师\n在比亚迪参与移动端App建设，担任Node.js开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Java、Spring Boot、Spring Cloud、MyBatis、Redis、Kafka。\n携程旅行网\n嵌入式软件工程师\n在项目中承担嵌入式软件工程师角色，参与支付清结算平台从设计到上线的完整流程，熟悉Go、Gin、gRPC，具备良",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000257",
+    "name": "徐梓轩",
+    "matched_companies": [
+      "小米"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子"
+    ],
+    "experience_text_preview": "Momenta\n数据分析师\n负责图像识别系统的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF、等保合规等技术完成服务拆分、接口联调、上线发布和问题排查。\n小米\n数据分析师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为图像识别系统，主要技术包括Java、Spring MVC、Dubbo。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000261",
+    "name": "胡宇",
+    "matched_companies": [
+      "网易",
+      "携程"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "旅游",
+      "OTA"
+    ],
+    "experience_text_preview": "网易\n软件测试工程师\n负责RAG问答系统的需求分析、系统设计和功能开发，使用Python、TensorFlow、PyTorch、机器学习等技术完成服务拆分、接口联调、上线发布和问题排查。\n携程\n数据工程师\n在项目中承担数据工程师角色，参与监控告警平台从设计到上线的完整流程，熟悉Go、Gin、gRPC、Etcd、Kafka，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000270",
+    "name": "杨建国",
+    "matched_companies": [
+      "小米",
+      "快手"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "短视频",
+      "内容平台"
+    ],
+    "experience_text_preview": "ThoughtWorks\n研发负责人\n在ThoughtWorks参与知识库检索系统建设，担任研发负责人，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angular、TypeScript。\n小米\n全栈开发工程师\n在小米参与广告投放平台建设，担任全栈开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括iOS、Swift、Objective",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000271",
+    "name": "刘浩",
+    "matched_companies": [
+      "小米",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "小米\n研发负责人\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Android、Kotlin、Java、Jetpack、Gradle。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000273",
+    "name": "赵强",
+    "matched_companies": [
+      "网易",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "网易\n安全工程师\n参与公司核心业务系统研发，围绕自然语言处理平台进行架构优化和稳定性建设，熟悉Android、Kotlin、Java、Jetpack、Gradle、移动端开发，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000275",
+    "name": "吴睿",
+    "matched_companies": [
+      "bilibili",
+      "中国移动",
+      "科大讯飞",
+      "商汤科技",
+      "Twitter",
+      "SAP"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "AI",
+      "语音识别",
+      "计算机视觉",
+      "外企",
+      "互联网",
+      "社交",
+      "ERP",
+      "企业软件"
+    ],
+    "experience_text_preview": "科大讯飞\n前端开发工程师\n负责移动端App的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript等技术完成服务拆分、接口联调、上线发布和问题排查。\n大华股份\n软件测试工程师\n主导或参与自动化测试平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Java、Spring Boot、Spring Cloud、MyBatis提升系统可维护性和交付效",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000277",
+    "name": "马梓轩",
+    "matched_companies": [
+      "网易",
+      "微博",
+      "Google",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强"
+    ],
+    "experience_text_preview": "Google\nNode.js开发工程师\n参与RAG问答系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用iOS、Swift、Objective-C、UIKit、SwiftUI。\n某制造业数字化公司\nJava开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含React、Vue、Angular、TypeS",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000278",
+    "name": "刘丽",
+    "matched_companies": [
+      "阿里巴巴",
+      "招商银行",
+      "蚂蚁集团",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融",
+      "银行",
+      "著名企业",
+      "金融科技",
+      "外企",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "招商银行信用卡中心\nNode.js开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为云原生基础设施平台，主要技术包括Java、Spring Boot、Spring Cloud、MyBatis。\n蚂蚁集团\nNode.js开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为物流调度系统，主要技术包括网络安全、渗透测试、安全加固、漏洞扫描、WAF。\n蚂蚁金服",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000279",
+    "name": "梁一凡",
+    "matched_companies": [
+      "小米",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "小米\n嵌入式软件工程师\n负责小程序平台的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript、MongoDB、Redis等技术完成服务拆分、接口联调、上线发布和问题排查。\n东软集团\niOS开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为BI报表平台，主要技术包括网络安全、渗透测试、安全加固。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000282",
+    "name": "胡宇",
+    "matched_companies": [
+      "拼多多"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商"
+    ],
+    "experience_text_preview": "拼多多\niOS开发工程师\n参与公司核心业务系统研发，围绕ERP业务系统进行架构优化和稳定性建设，熟悉React、Vue、Angular，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000286",
+    "name": "冯秀英",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "宁德时代",
+      "科大讯飞",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "AI",
+      "语音识别",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "蚂蚁集团\n前端开发工程师\n负责物流调度系统的需求分析、系统设计和功能开发，使用Linux、Shell、Ansible、Nginx、MySQL等技术完成服务拆分、接口联调、上线发布和问题排查。\n小鹏汽车\nAI工程师\n在小鹏汽车参与订单履约系统建设，担任AI工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Android、Kotlin、Java、Jetpack、Gradle。\n科",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000289",
+    "name": "吴鹏",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技"
+    ],
+    "experience_text_preview": "蚂蚁金服\n技术经理\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为订单履约系统，主要技术包括Hadoop、Spark、Flink、Hive。\n中软国际\n高级Java开发工程师\n在项目中承担高级Java开发工程师角色，参与CRM客户管理系统从设计到上线的完整流程，熟悉Java、Spring Boot、Spring Cloud，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000294",
+    "name": "冯欣怡",
+    "matched_companies": [
+      "携程",
+      "Uber",
+      "IBM"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "出行",
+      "科技",
+      "企业软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "IBM\n全栈开发工程师\n在项目中承担全栈开发工程师角色，参与云原生基础设施平台从设计到上线的完整流程，熟悉Python、TensorFlow、PyTorch、机器学习、深度学习，具备良好的工程实践和团队协作经验。\n携程旅行网\nPython开发工程师\n在携程旅行网参与RAG问答系统建设，担任Python开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Go、Gin、gRPC",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000295",
+    "name": "郭鑫",
+    "matched_companies": [
+      "小米",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "小米\nPython开发工程师\n参与ERP业务系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用C++、Linux、多线程、网络编程、Qt、嵌入式系统。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000301",
+    "name": "黄丽",
+    "matched_companies": [
+      "快手",
+      "商汤科技",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "AI",
+      "计算机视觉",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "商汤科技\n技术经理\n在项目中承担技术经理角色，参与物流调度系统从设计到上线的完整流程，熟悉Docker、Kubernetes、Jenkins，具备良好的工程实践和团队协作经验。\n快手\n技术经理\n负责数据中台的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript、MongoDB等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000306",
+    "name": "胡伟",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "蔚来汽车\n后端开发工程师\n参与MES制造执行系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Java、Spring Boot、Spring Cloud、MyBatis、Redis。\n蚂蚁金服\n算法工程师\n主导或参与广告投放平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用Hadoop、Spark、Flink提升系统可维护性和交付效率。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000311",
+    "name": "王俊",
+    "matched_companies": [
+      "贝壳",
+      "招商银行",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "金融",
+      "银行",
+      "著名企业",
+      "通信",
+      "运营商",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "招商银行信用卡中心\n产品研发工程师\n参与监控告警平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Python、TensorFlow、PyTorch、机器学习、深度学习。\n工商银行软件开发中心\n数据分析师\n在工商银行软件开发中心参与支付清结算平台建设，担任数据分析师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angula",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000312",
+    "name": "罗鹏",
+    "matched_companies": [
+      "携程",
+      "宁德时代",
+      "Google",
+      "Twitter",
+      "Siemens"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强",
+      "社交",
+      "工业"
+    ],
+    "experience_text_preview": "携程\n数据分析师\n在携程参与实时数仓建设，担任数据分析师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Linux、Shell、Ansible。\n宁德时代\n机器学习工程师\n主导或参与智能客服系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用iOS、Swift、Objective-C、UIKit提升系统可维护性和交付效率。\nGoogle\nGo开发工程师\n负责相关业务模块的",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000313",
+    "name": "吴鹏",
+    "matched_companies": [
+      "快手",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "快手\nPython开发工程师\n主导或参与ERP业务系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Docker、Kubernetes、Jenkins、GitLab CI、Prometheus、Grafana提升系统可维护性和交付效率。\n软通动力\n研发负责人\n负责物流调度系统的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript等技术完成服务拆分、接",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000314",
+    "name": "董雪",
+    "matched_companies": [
+      "携程"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA"
+    ],
+    "experience_text_preview": "携程\nPython开发工程师\n在项目中承担Python开发工程师角色，参与CRM客户管理系统从设计到上线的完整流程，熟悉Hadoop、Spark、Flink、Hive、HBase，具备良好的工程实践和团队协作经验。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000321",
+    "name": "董磊",
+    "matched_companies": [
+      "bilibili",
+      "Twitter",
+      "Uber",
+      "IBM"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "科技",
+      "企业软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "Momenta\n后端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为CRM客户管理系统，主要技术包括C++、Linux、多线程。\nB站\n大数据开发工程师\n负责广告投放平台的需求分析、系统设计和功能开发，使用React、Vue、Angular等技术完成服务拆分、接口联调、上线发布和问题排查。\nIBM\n高级Java开发工程师\n参与用户增长平台的重构和优化工作，针对慢查询、接口",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000322",
+    "name": "赵丽",
+    "matched_companies": [
+      "网易",
+      "Microsoft",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "大华股份\n运维开发工程师\n参与公司核心业务系统研发，围绕内容审核系统进行架构优化和稳定性建设，熟悉Hadoop、Spark、Flink、Hive、HBase，能够处理高并发和复杂业务场景。\n网易\n测试开发工程师\n参与公司核心业务系统研发，围绕自动化测试平台进行架构优化和稳定性建设，熟悉Python、Django、Flask、FastAPI，能够处理高并发和复杂业务场景。\n网易\n数据分析师\n在网易参",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000325",
+    "name": "朱梓轩",
+    "matched_companies": [
+      "阿里巴巴",
+      "网易",
+      "蚂蚁集团",
+      "宁德时代",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "游戏",
+      "教育",
+      "金融科技",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "蚂蚁集团\n产品研发工程师\n主导或参与支付清结算平台相关项目，负责关键功能开发、代码评审和线上故障处理，使用C++、Linux、多线程、网络编程、Qt提升系统可维护性和交付效率。\n网易\n云计算工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Java、Spring Boot、Spring Cloud。\n理想汽车\n全栈开发工程师\n在理想汽车参与",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000327",
+    "name": "谢洋",
+    "matched_companies": [
+      "拼多多",
+      "招商银行",
+      "科大讯飞"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融",
+      "银行",
+      "著名企业",
+      "AI",
+      "语音识别"
+    ],
+    "experience_text_preview": "拼多多\n机器学习工程师\n参与公司核心业务系统研发，围绕金融风控系统进行架构优化和稳定性建设，熟悉网络安全、渗透测试、安全加固，能够处理高并发和复杂业务场景。\n科大讯飞\n高级Java开发工程师\n负责工业物联网平台的需求分析、系统设计和功能开发，使用Go、Gin、gRPC、Etcd、Kafka等技术完成服务拆分、接口联调、上线发布和问题排查。\n中软国际\nDevOps工程师\n主导或参与企业协同办公系统相",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000342",
+    "name": "孙洋",
+    "matched_companies": [
+      "阿里巴巴",
+      "网易",
+      "蚂蚁集团",
+      "Twitter",
+      "Uber",
+      "IBM",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "游戏",
+      "教育",
+      "金融科技",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "科技",
+      "企业软件",
+      "世界500强",
+      "汽车零部件",
+      "制造业"
+    ],
+    "experience_text_preview": "Bosch\n研发负责人\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为RAG问答系统，主要技术包括Docker、Kubernetes、Jenkins。\n网易\n高级后端开发工程师\n在网易参与物流调度系统建设，担任高级后端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Docker、Kubernetes、Jenkins、GitLab CI、Prometheu",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000343",
+    "name": "朱磊",
+    "matched_companies": [
+      "快手",
+      "携程",
+      "中国移动",
+      "Twitter",
+      "Uber",
+      "Accenture",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "咨询",
+      "IT咨询",
+      "世界500强",
+      "汽车零部件",
+      "制造业"
+    ],
+    "experience_text_preview": "理想汽车\n云计算工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为广告投放平台，主要技术包括Docker、Kubernetes、Jenkins、GitLab CI、Prometheus、Grafana。\n快手\n数据工程师\n负责CRM客户管理系统的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript、Webpack等技术完成服务拆分、接口联调",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000351",
+    "name": "宋鹏",
+    "matched_companies": [
+      "快手",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "快手\nPython开发工程师\n参与公司核心业务系统研发，围绕移动端App进行架构优化和稳定性建设，熟悉React、Vue、Angular、TypeScript、Webpack、Vite，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000354",
+    "name": "于欣怡",
+    "matched_companies": [
+      "快手",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "ThoughtWorks\n高级Java开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为自动化测试平台，主要技术包括网络安全、渗透测试、安全加固、漏洞扫描、WAF。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000357",
+    "name": "张明",
+    "matched_companies": [
+      "网易",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "自如\n算法工程师\n在项目中承担算法工程师角色，参与小程序平台从设计到上线的完整流程，熟悉Java、Spring Boot、Spring Cloud，具备良好的工程实践和团队协作经验。\n软通动力\n测试开发工程师\n负责数据中台的需求分析、系统设计和功能开发，使用iOS、Swift、Objective-C、UIKit等技术完成服务拆分、接口联调、上线发布和问题排查。\n网易\n前端开发工程师\n负责AI模型训",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000358",
+    "name": "陈雪",
+    "matched_companies": [
+      "阿里巴巴",
+      "小米",
+      "蚂蚁集团",
+      "用友",
+      "Twitter",
+      "Uber",
+      "SAP"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "硬件",
+      "消费电子",
+      "金融科技",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "出行"
+    ],
+    "experience_text_preview": "大华股份\n高级Java开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Python、TensorFlow、PyTorch、机器学习、深度学习。\n蚂蚁集团\n运维开发工程师\n参与监控告警平台的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Python、TensorFlow、PyTorch。\nSAP\n数据分",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000363",
+    "name": "陈超",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "Infosys\nJava开发工程师\n负责智能客服系统的需求分析、系统设计和功能开发，使用Java、Spring MVC、Dubbo、Zookeeper等技术完成服务拆分、接口联调、上线发布和问题排查。\n蚂蚁集团\nNode.js开发工程师\n负责CRM客户管理系统的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript、Webpack等技术完成服务拆分、接口联调、上",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000371",
+    "name": "宋嘉豪",
+    "matched_companies": [
+      "快手",
+      "Amazon"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "电商",
+      "云计算",
+      "世界500强"
+    ],
+    "experience_text_preview": "ThoughtWorks\n高级后端开发工程师\n在项目中承担高级后端开发工程师角色，参与自然语言处理平台从设计到上线的完整流程，熟悉网络安全、渗透测试、安全加固、漏洞扫描，具备良好的工程实践和团队协作经验。\nAmazon\n安全工程师\n主导或参与MES制造执行系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Java、Spring Boot、Spring Cloud提升系统可维护性和交付效率",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000372",
+    "name": "杨晨",
+    "matched_companies": [
+      "拼多多",
+      "旷视科技",
+      "Google",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "AI",
+      "计算机视觉",
+      "著名企业",
+      "外企",
+      "互联网",
+      "科技",
+      "世界500强",
+      "社交"
+    ],
+    "experience_text_preview": "Google\nAndroid开发工程师\n参与公司核心业务系统研发，围绕MES制造执行系统进行架构优化和稳定性建设，熟悉Python、Django、Flask、FastAPI、PostgreSQL，能够处理高并发和复杂业务场景。\n拼多多\n云计算工程师\n在项目中承担云计算工程师角色，参与订单履约系统从设计到上线的完整流程，熟悉Linux、Shell、Ansible、Nginx、MySQL，具备良好的工",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000375",
+    "name": "何丽",
+    "matched_companies": [
+      "贝壳",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "贝壳找房\n后端开发工程师\n负责订单履约系统的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000380",
+    "name": "孙宇",
+    "matched_companies": [
+      "拼多多"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商"
+    ],
+    "experience_text_preview": "拼多多\nNode.js开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为监控告警平台，主要技术包括Python、Django、Flask、FastAPI。\n某跨境电商公司\niOS开发工程师\n在项目中承担iOS开发工程师角色，参与企业协同办公系统从设计到上线的完整流程，熟悉Python、Django、Flask、FastAPI、PostgreSQL，具备良好的工程实践和团队协",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000383",
+    "name": "陈雨桐",
+    "matched_companies": [
+      "微博",
+      "招商银行"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "社交",
+      "媒体",
+      "金融",
+      "银行",
+      "著名企业"
+    ],
+    "experience_text_preview": "招商银行信用卡中心\n数据工程师\n负责信贷审批系统的需求分析、系统设计和功能开发，使用Python、Django、Flask、FastAPI、PostgreSQL、Celery等技术完成服务拆分、接口联调、上线发布和问题排查。\n新浪微博\n机器学习工程师\n参与RAG问答系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用Python、TensorFlow、PyTorc",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000389",
+    "name": "黄敏",
+    "matched_companies": [
+      "快手",
+      "Twitter",
+      "Uber",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交",
+      "出行",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "ThoughtWorks\n算法工程师\n负责云原生基础设施平台的需求分析、系统设计和功能开发，使用Docker、Kubernetes、Jenkins、GitLab CI、Prometheus等技术完成服务拆分、接口联调、上线发布和问题排查。\nOracle\n研发负责人\n在Oracle参与金融风控系统建设，担任研发负责人，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Hadoop、Sp",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000391",
+    "name": "朱宇",
+    "matched_companies": [
+      "携程",
+      "微博",
+      "Twitter",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "社交",
+      "媒体",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "携程\n技术经理\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为物流调度系统，主要技术包括C++、Linux、多线程、网络编程、Qt。\n新浪微博\n数据分析师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为RAG问答系统，主要技术包括Go、Gin、gRPC、Etcd、Kafka、Kubernetes。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000395",
+    "name": "孙军",
+    "matched_companies": [
+      "阿里巴巴",
+      "携程",
+      "蚂蚁集团"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "旅游",
+      "OTA",
+      "金融科技"
+    ],
+    "experience_text_preview": "蚂蚁集团\nNode.js开发工程师\n在项目中承担Node.js开发工程师角色，参与AI模型训练平台从设计到上线的完整流程，熟悉Java、Spring MVC、Dubbo、Zookeeper，具备良好的工程实践和团队协作经验。\n携程\nNode.js开发工程师\n负责AI模型训练平台的需求分析、系统设计和功能开发，使用Android、Kotlin、Java、Jetpack等技术完成服务拆分、接口联调、上",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000406",
+    "name": "黄军",
+    "matched_companies": [
+      "快手",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "ThoughtWorks\nDevOps工程师\n在项目中承担DevOps工程师角色，参与推荐系统从设计到上线的完整流程，熟悉C++、Linux、多线程、网络编程，具备良好的工程实践和团队协作经验。\n某金融科技公司\n后端开发工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为自然语言处理平台，主要技术包括网络安全、渗透测试、安全加固。\n快手\n运维开发工程师\n参与BI报表平台的重构和优",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000417",
+    "name": "董一凡",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "科大讯飞",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "AI",
+      "语音识别",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "某跨境电商公司\n技术经理\n参与公司核心业务系统研发，围绕广告投放平台进行架构优化和稳定性建设，熟悉Linux、Shell、Ansible、Nginx、MySQL，能够处理高并发和复杂业务场景。\n蚂蚁集团\n技术经理\n在项目中承担技术经理角色，参与推荐系统从设计到上线的完整流程，熟悉Python、TensorFlow、PyTorch、机器学习、深度学习、NLP，具备良好的工程实践和团队协作经验。\n大华",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000420",
+    "name": "朱秀英",
+    "matched_companies": [
+      "携程",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "携程旅行网\n数据分析师\n在携程旅行网参与数据中台建设，担任数据分析师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、TensorFlow、PyTorch、机器学习、深度学习、NLP。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000427",
+    "name": "冯娜",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "蚂蚁集团\n后端开发工程师\n在蚂蚁集团参与自动化测试平台建设，担任后端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Android、Kotlin、Java、Jetpack、Gradle、移动端开发。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000429",
+    "name": "周杰",
+    "matched_companies": [
+      "携程",
+      "招商银行",
+      "Twitter",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "金融",
+      "银行",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "同程旅行\n云计算工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为物流调度系统，主要技术包括C++、Linux、多线程、网络编程、Qt、嵌入式系统。\n东软集团\nPython开发工程师\n在东软集团参与企业协同办公系统建设，担任Python开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程、网络编程、Qt、嵌入式系统。\n招商银行信",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000432",
+    "name": "张超",
+    "matched_companies": [
+      "滴滴",
+      "宁德时代",
+      "科大讯飞",
+      "Twitter",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "AI",
+      "语音识别",
+      "外企",
+      "互联网",
+      "社交",
+      "汽车零部件",
+      "世界500强"
+    ],
+    "experience_text_preview": "滴滴\n数据工程师\n参与公司核心业务系统研发，围绕金融风控系统进行架构优化和稳定性建设，熟悉Python、Django、Flask、FastAPI、PostgreSQL、Celery，能够处理高并发和复杂业务场景。\n科大讯飞\n全栈开发工程师\n负责知识库检索系统的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF等技术完成服务拆分、接口联调、上线发布和问题排查。\n宁德时代",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000433",
+    "name": "赵俊",
+    "matched_companies": [
+      "贝壳",
+      "用友",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "贝壳找房\nNode.js开发工程师\n在贝壳找房参与推荐系统建设，担任Node.js开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、Django、Flask、FastAPI。\n用友网络\n产品研发工程师\n在用友网络参与企业协同办公系统建设，担任产品研发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Java、Spring MVC、Dub",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000436",
+    "name": "罗秀英",
+    "matched_companies": [
+      "滴滴",
+      "快手",
+      "中国移动",
+      "IBM"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "短视频",
+      "内容平台",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "科技",
+      "企业软件",
+      "世界500强"
+    ],
+    "experience_text_preview": "IBM\n数据分析师\n在项目中承担数据分析师角色，参与MES制造执行系统从设计到上线的完整流程，熟悉React、Vue、Angular、TypeScript、Webpack、Vite，具备良好的工程实践和团队协作经验。\n快手\n大数据开发工程师\n主导或参与信贷审批系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。\n小鹏汽车\n技",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000437",
+    "name": "萧敏",
+    "matched_companies": [
+      "滴滴"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行"
+    ],
+    "experience_text_preview": "滴滴\n研发负责人\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Python、TensorFlow、PyTorch、机器学习、深度学习、NLP。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000445",
+    "name": "孙雨桐",
+    "matched_companies": [
+      "快手",
+      "用友",
+      "Twitter",
+      "Oracle",
+      "Siemens"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交",
+      "数据库",
+      "工业",
+      "制造业",
+      "世界500强"
+    ],
+    "experience_text_preview": "用友网络\n技术经理\n在项目中承担技术经理角色，参与实时数仓从设计到上线的完整流程，熟悉网络安全、渗透测试、安全加固、漏洞扫描、WAF，具备良好的工程实践和团队协作经验。\nSiemens\n架构师\n参与公司核心业务系统研发，围绕监控告警平台进行架构优化和稳定性建设，熟悉Java、Spring Boot、Spring Cloud、MyBatis、Redis，能够处理高并发和复杂业务场景。\n自如\n云计算工",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000447",
+    "name": "刘杰",
+    "matched_companies": [
+      "滴滴",
+      "宁德时代",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "新能源",
+      "制造业",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "滴滴\n全栈开发工程师\n主导或参与知识库检索系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Python、Django、Flask提升系统可维护性和交付效率。\n宁德时代\n云计算工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为企业协同办公系统，主要技术包括iOS、Swift、Objective-C。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000451",
+    "name": "黄博",
+    "matched_companies": [
+      "网易",
+      "bilibili",
+      "携程",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "网易\nGo开发工程师\n在项目中承担Go开发工程师角色，参与自动化测试平台从设计到上线的完整流程，熟悉C++、Linux、多线程，具备良好的工程实践和团队协作经验。\n携程旅行网\nAI工程师\n参与公司核心业务系统研发，围绕智能客服系统进行架构优化和稳定性建设，熟悉网络安全、渗透测试、安全加固、漏洞扫描、WAF，能够处理高并发和复杂业务场景。\n大华股份\n运维开发工程师\n负责支付清结算平台的需求分析、系统",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000455",
+    "name": "唐子涵",
+    "matched_companies": [
+      "携程",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "理想汽车\n安全工程师\n在项目中承担安全工程师角色，参与智能客服系统从设计到上线的完整流程，熟悉Java、Spring Boot、Spring Cloud、MyBatis，具备良好的工程实践和团队协作经验。\n携程\n全栈开发工程师\n负责企业协同办公系统的需求分析、系统设计和功能开发，使用Java、Spring MVC、Dubbo、Zookeeper、RocketMQ等技术完成服务拆分、接口联调、上线发",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000461",
+    "name": "谢雪",
+    "matched_companies": [
+      "拼多多",
+      "金蝶",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "拼多多\n数据工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为工业物联网平台，主要技术包括Android、Kotlin、Java、Jetpack。\n金蝶软件\n前端开发工程师\n参与公司核心业务系统研发，围绕金融风控系统进行架构优化和稳定性建设，熟悉C++、Linux、多线程，能够处理高并发和复杂业务场景。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000462",
+    "name": "高明",
+    "matched_companies": [
+      "网易",
+      "海康威视"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "游戏",
+      "教育",
+      "安防",
+      "硬件",
+      "著名企业"
+    ],
+    "experience_text_preview": "海康威视\nNode.js开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Hadoop、Spark、Flink、Hive、HBase、Kafka。\n网易\n嵌入式软件工程师\n负责业务系统后端服务、数据处理流程和第三方系统对接，项目方向为监控告警平台，主要技术包括Python、Django、Flask。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000463",
+    "name": "吴思源",
+    "matched_companies": [
+      "携程",
+      "Uber",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "互联网",
+      "出行",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "携程旅行网\n数据分析师\n主导或参与CRM客户管理系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Android、Kotlin、Java提升系统可维护性和交付效率。\n浪潮集团\n算法工程师\n负责数据中台的需求分析、系统设计和功能开发，使用Java、Spring MVC、Dubbo、Zookeeper、RocketMQ、Oracle等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000466",
+    "name": "宋婷",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Amazon",
+      "Twitter",
+      "SAP"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "云计算",
+      "世界500强",
+      "社交",
+      "ERP",
+      "企业软件"
+    ],
+    "experience_text_preview": "蚂蚁集团\n后端开发工程师\n主导或参与内容审核系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Java、Spring MVC、Dubbo、Zookeeper、RocketMQ提升系统可维护性和交付效率。\nAmazon\nJava开发工程师\n负责自动化测试平台的需求分析、系统设计和功能开发，使用Node.js、Express、NestJS、TypeScript、MongoDB等技术完成服务拆",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000468",
+    "name": "王秀英",
+    "matched_companies": [
+      "携程",
+      "中国移动"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企"
+    ],
+    "experience_text_preview": "携程\nDevOps工程师\n参与公司核心业务系统研发，围绕MES制造执行系统进行架构优化和稳定性建设，熟悉Android、Kotlin、Java、Jetpack、Gradle、移动端开发，能够处理高并发和复杂业务场景。\n东软集团\n安全工程师\n在东软集团参与支付清结算平台建设，担任安全工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括React、Vue、Angular、TypeS",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000470",
+    "name": "萧凯",
+    "matched_companies": [
+      "快手",
+      "携程",
+      "Microsoft",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "旅游",
+      "OTA",
+      "外企",
+      "科技",
+      "软件",
+      "世界500强",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "ThoughtWorks\n后端开发工程师\n在ThoughtWorks参与实时数仓建设，担任后端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、Django、Flask、FastAPI、PostgreSQL。\n微软中国\n前端开发工程师\n负责内容审核系统的需求分析、系统设计和功能开发，使用Linux、Shell、Ansible等技术完成服务拆分、接口联调、上线",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000472",
+    "name": "黄欣怡",
+    "matched_companies": [
+      "携程",
+      "Oracle"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "旅游",
+      "OTA",
+      "外企",
+      "数据库",
+      "企业软件"
+    ],
+    "experience_text_preview": "携程旅行网\n数据分析师\n参与订单履约系统的重构和优化工作，针对慢查询、接口超时、消息堆积和服务稳定性问题进行持续改进，使用React、Vue、Angular、TypeScript、Webpack。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000474",
+    "name": "孙宇",
+    "matched_companies": [
+      "贝壳",
+      "用友",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "企业软件",
+      "ERP",
+      "著名企业",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "工商银行软件开发中心\n软件测试工程师\n在项目中承担软件测试工程师角色，参与智能客服系统从设计到上线的完整流程，熟悉Hadoop、Spark、Flink、Hive、HBase，具备良好的工程实践和团队协作经验。\n用友网络\n后端开发工程师\n在用友网络参与物流调度系统建设，担任后端开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程。\n贝壳找房\nPyth",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000476",
+    "name": "韩鹏",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "外企",
+      "互联网",
+      "出行"
+    ],
+    "experience_text_preview": "蚂蚁集团\n大数据开发工程师\n在蚂蚁集团参与RAG问答系统建设，担任大数据开发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Docker、Kubernetes、Jenkins、GitLab CI。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000478",
+    "name": "董梓轩",
+    "matched_companies": [
+      "滴滴"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行"
+    ],
+    "experience_text_preview": "滴滴\nDevOps工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含网络安全、渗透测试、安全加固。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000486",
+    "name": "郭俊",
+    "matched_companies": [
+      "小米",
+      "Bosch"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "硬件",
+      "消费电子",
+      "外企",
+      "汽车零部件",
+      "制造业",
+      "世界500强"
+    ],
+    "experience_text_preview": "软通动力\nAI工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含iOS、Swift、Objective-C、UIKit。\nBosch\n产品研发工程师\n负责智能客服系统的需求分析、系统设计和功能开发，使用网络安全、渗透测试、安全加固、漏洞扫描、WAF等技术完成服务拆分、接口联调、上线发布和问题排查。\n理想汽车\nPython开发工程师\n参与公司",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000490",
+    "name": "胡浩",
+    "matched_companies": [
+      "阿里巴巴",
+      "蚂蚁集团",
+      "中国移动",
+      "旷视科技"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "电商",
+      "金融科技",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "AI",
+      "计算机视觉"
+    ],
+    "experience_text_preview": "蚂蚁金服\nAndroid开发工程师\n在项目中承担Android开发工程师角色，参与移动端App从设计到上线的完整流程，熟悉Java、Spring MVC、Dubbo，具备良好的工程实践和团队协作经验。\n旷视科技\n数据分析师\n在旷视科技参与智能客服系统建设，担任数据分析师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、Django、Flask、FastAPI、Post",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000491",
+    "name": "何伟",
+    "matched_companies": [
+      "贝壳",
+      "中国移动",
+      "Uber",
+      "Siemens"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "出行",
+      "工业",
+      "制造业",
+      "世界500强"
+    ],
+    "experience_text_preview": "贝壳找房\n产品研发工程师\n在贝壳找房参与自然语言处理平台建设，担任产品研发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Android、Kotlin、Java、Jetpack。\nSiemens\n云计算工程师\n负责金融风控系统的需求分析、系统设计和功能开发，使用Docker、Kubernetes、Jenkins等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000492",
+    "name": "冯佳",
+    "matched_companies": [
+      "快手",
+      "贝壳",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "短视频",
+      "内容平台",
+      "房产",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "自如\n云计算工程师\n在自如参与小程序平台建设，担任云计算工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括C++、Linux、多线程、网络编程、Qt、嵌入式系统。\n贝壳找房\nJava开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含C++、Linux、多线程、网络编程、Qt、嵌入式系统。\nThoughtWorks\n",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000495",
+    "name": "萧晨",
+    "matched_companies": [
+      "贝壳",
+      "用友"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "企业软件",
+      "ERP",
+      "著名企业"
+    ],
+    "experience_text_preview": "贝壳找房\n大数据开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含iOS、Swift、Objective-C。\n用友网络\nNode.js开发工程师\n负责小程序平台的需求分析、系统设计和功能开发，使用React、Vue、Angular、TypeScript、Webpack等技术完成服务拆分、接口联调、上线发布和问题排查。",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000496",
+    "name": "郭超",
+    "matched_companies": [
+      "滴滴",
+      "中国平安",
+      "中国移动",
+      "Uber"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "出行",
+      "金融",
+      "保险",
+      "著名企业",
+      "通信",
+      "运营商",
+      "国企",
+      "外企",
+      "互联网"
+    ],
+    "experience_text_preview": "工商银行软件开发中心\n全栈开发工程师\n负责相关业务模块的开发和维护，支持产品快速迭代，参与技术方案评审、数据库设计和自动化测试，技术栈包含Java、Spring MVC、Dubbo、Zookeeper。\n平安科技\nDevOps工程师\n在平安科技参与CRM客户管理系统建设，担任DevOps工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Docker、Kubernetes、Je",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  },
+  {
+    "user_id": "U000500",
+    "name": "赵一凡",
+    "matched_companies": [
+      "贝壳",
+      "中国移动",
+      "Twitter"
+    ],
+    "company_tags": [
+      "国内大厂",
+      "互联网大厂",
+      "房产",
+      "通信",
+      "运营商",
+      "著名企业",
+      "国企",
+      "外企",
+      "互联网",
+      "社交"
+    ],
+    "experience_text_preview": "软通动力\n产品研发工程师\n在软通动力参与知识库检索系统建设，担任产品研发工程师，主要负责核心模块设计、接口开发、数据库建模和性能优化，技术栈包括Python、TensorFlow、PyTorch、机器学习、深度学习。\n贝壳找房\n高级前端开发工程师\n主导或参与图像识别系统相关项目，负责关键功能开发、代码评审和线上故障处理，使用Python、Django、Flask、FastAPI提升系统可维护性和交",
+    "issue": "索引命中大厂标签，但原始 experience_if 中未找到大厂关键词"
+  }
+]

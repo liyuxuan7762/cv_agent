@@ -210,7 +210,7 @@ const COMPANY_DICTIONARY_ROWS = [
   {
     company_name: '华为',
     aliases:      ['Huawei'],
-    tags:         ['国内大厂', 'ICT', '制造业', '通信'],
+    tags:         ['国内大厂', 'ICT', '制造业', '通信', '世界500强'],
   },
   {
     company_name: '网易',
@@ -448,6 +448,11 @@ const COMPANY_DICTIONARY_ROWS = [
     tags:         ['外企', '科技', '软件', '世界500强'],
   },
   {
+    company_name: '微软中国',
+    aliases:      ['Microsoft China', '微软（中国）'],
+    tags:         ['外企', '世界500强', '软件', '科技'],
+  },
+  {
     company_name: 'Apple',
     aliases:      ['苹果', 'Apple Inc'],
     tags:         ['外企', '科技', '消费电子', '世界500强'],
@@ -529,12 +534,12 @@ const COMPANY_DICTIONARY_ROWS = [
   {
     company_name: 'Oracle',
     aliases:      ['甲骨文'],
-    tags:         ['外企', '数据库', '企业软件'],
+    tags:         ['外企', '数据库', '企业软件', '世界500强'],
   },
   {
     company_name: 'SAP',
     aliases:      ['思爱普'],
-    tags:         ['外企', 'ERP', '企业软件'],
+    tags:         ['外企', 'ERP', '企业软件', '世界500强'],
   },
   {
     company_name: 'Salesforce',
@@ -747,7 +752,46 @@ async function verifyCompanySeedResult() {
   if (tagResult.rowCount < 7) {
     console.error(`  Verification FAILED: expected >= 7 companies with '国内大厂', got ${tagResult.rowCount}`);
   } else {
-    console.log('  company_dictionary check: PASSED');
+    console.log('  国内大厂 check: PASSED');
+  }
+
+  // 验证：世界500强标签召回
+  const f500Result = await pool.query(`
+    SELECT company_name, aliases, tags
+    FROM company_dictionary
+    WHERE tags && ARRAY['世界500强']::text[]
+    ORDER BY company_name;
+  `);
+  console.log(`\nTotal companies with tag '世界500强': ${f500Result.rowCount}`);
+  f500Result.rows.forEach(r => {
+    console.log(`  ${r.company_name}  aliases: ${JSON.stringify(r.aliases)}  tags: ${JSON.stringify(r.tags)}`);
+  });
+
+  // 验证 Issue 01 要求的 8 家公司全部存在
+  const required500 = ['华为', '微软中国', 'Amazon', 'IBM', 'Oracle', 'SAP', 'Siemens', 'Bosch'];
+  const found500Names = f500Result.rows.map(r => r.company_name);
+  const missing500 = required500.filter(name => !found500Names.includes(name));
+  if (missing500.length > 0) {
+    console.error(`  Verification FAILED: missing '世界500强' companies: ${missing500.join(', ')}`);
+  } else {
+    console.log('  世界500强 check: PASSED (all 8 required companies present)');
+  }
+
+  // 验证华为同时具备 国内大厂 和 世界500强
+  const huaweiResult = await pool.query(`
+    SELECT company_name, tags
+    FROM company_dictionary
+    WHERE company_name = '华为';
+  `);
+  if (huaweiResult.rowCount > 0) {
+    const huaweiTags = huaweiResult.rows[0].tags;
+    const hasGuonei = huaweiTags.includes('国内大厂');
+    const has500    = huaweiTags.includes('世界500强');
+    if (hasGuonei && has500) {
+      console.log('  华为 dual-tag check: PASSED (国内大厂 + 世界500强)');
+    } else {
+      console.error(`  Verification FAILED: 华为 tags = ${JSON.stringify(huaweiTags)}, expected both '国内大厂' and '世界500强'`);
+    }
   }
 }
 
